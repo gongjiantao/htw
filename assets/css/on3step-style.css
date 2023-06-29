@@ -1,52 +1,4 @@
-/* CSS Document */
 
-
-/* 
-*
-*
-[Table of contents]
-*
-*
-*
-
-    font-funture / @import url
-    general / body
-    space / .space-single
-    section / section
-    button / a.shin
-    preloader / .backgroundloader
-    navigation / header
-    menu nav / .white nav
-    menu1 / .social-icons-subnav
-    search menu / .search-container
-    subheader / #subheader
-    slider1 / .slideshow
-    heading / .heading
-    project home / #imghome
-    about / #about-us-1
-    post share / .share.post-share
-    detail / #owl-detail
-    span post / .spanpost
-    share detail / .post-share span  
-    gallery / .filter-wraper
-    gallery max width / #w-gallery-container	
-    owl / .owl-theme .owl-nav
-    map / #map-1
-    contact / .wrapaddres 
-    footer / footer
-    totop / #totop
-    Blog / .blog-simple
-    single post / .top-article
-    aside, sidebar / aside 
-    Blog comment / #blog-comment 
-
-*
-*
-*/
-
-
-    /* font-funture */
-   
     p{ 
     font-size: 14px; 
     margin-top: 0;
@@ -199,7 +151,7 @@
     .content-wrapper {
     position: relative;
     }
-    /* preloader */
+    /* 预加载器-------------------------------------------------------------------------------------- 
     .backgroundloader{
     top: 0px;
     left: 0px;
@@ -271,9 +223,8 @@
     50%  { opacity: 1; }
     100% { opacity: 0.5; }
     }
-    /* end preloader */
+    /* 结束 -------***********************************************************************************/
 
-    /******************** navigation *******************/
     header {
     top: 0;
     left: 0px;
